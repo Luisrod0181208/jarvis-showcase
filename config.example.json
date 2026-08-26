@@ -1,0 +1,9 @@
+{
+  "services": {
+    "homeassistant": { "url": "http://localhost:8123", "token": "REPLACE_ME" },
+    "anthropic":     { "api_key": "REPLACE_ME" },
+    "tessie":        { "token": "REPLACE_ME", "vin": "REPLACE_ME" },
+    "ntfy":          { "topic": "REPLACE_ME" },
+    "openweather":   { "api_key": "REPLACE_ME" }
+  }
+}
